@@ -41,3 +41,9 @@ The desktop application is written in Python. Open the project folder and run:
 
 ```bash
 python video_to_mp3.py
+
+## Downloads
+
+- [Download for Windows](https://mega.nz/file/UVdlyCAb#x9tsAC-elWhK2yQhg11nRZ50lPjuaGGWdMSx7dg4Eg8)
+- [Download for Android](https://mega.nz/file/IRlDDLZA#VnVWXD2N7ptHNVD8m6Js28LtsLhA5Xh9YtALlBR2EQI)
+- [Download Open Source Version py](https://mega.nz/file/gJkQUTbB#bnsWryzLRYyJU1cyE2Cv0Jp5yAGzfYHGWLjmgyV-W7w)
